@@ -15,21 +15,21 @@ git pull
 ```
 from inside the folder where local repository is located.
 
-### Prerequisites
+## Prerequisites
 
 Tools are written in either C++ or Python. .exe (C++) tools require just launching them if it's Windows, or in Linux using software line wine, while .py tools require Python.
 
-Windows
+### Windows
 ```
 winget install python
 ```
 
-Linux
+### Linux
 ```
 sudo apt update && apt install wine python
 ```
 
-### Installing
+## Installing
 
 To launch .py tools either click on them or use a command line/terminal with following commands:
 
@@ -46,7 +46,7 @@ py tool.py
 ## Requirements
 
 Some python tools might require additional modules to be downloaded.
-## Linux
+### Linux
 To install them on Linux properly without damaging any system files you have to create a virtual environment first and switch to it. To do so first install package for virtual environments:
 ```
 sudo apt install python3-venv
@@ -64,7 +64,7 @@ This modifies your PATH environment variable to include .venv/bin/. Now you can 
 pip install module-name
 ```
 
-## Windows
+### Windows
 In Windows you just run:
 ```
 py -m pip install module-name
