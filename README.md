@@ -3,9 +3,9 @@
 A collection of small simple tools written by me, also an experiment on the githubs README functionality.
 
 ## Quick tools description
-pwd.exe - password generator written in C++  
-merge-lines.py - removes unnecessary separations and - that are copied when you try to copy text from pdf.  
-format-any.py - has different format settings for specific usage from text: Extract dois, Remove any first numerations, Clear copied emails from Yandex  
+pwd.exe - password generator written in C++ <br />
+merge-lines.py - removes unnecessary separations and - that are copied when you try to copy text from pdf.  <br />
+format-any.py - has different format settings for specific usage from text: Extract dois, Remove any first numerations, Clear copied emails from Yandex  <br />
 
 ## Getting Started
 
